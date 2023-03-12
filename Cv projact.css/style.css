@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(225, 235, 205);
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width:1050px;
+    background-color: rgb(91, 248, 214);
+    margin: 0 auto;
+}
+.header{
+
+}
+
+.profile{
+    width: 100px;
+    height: 120px;
+    border:3px rgb(252, 252, 253) ;
+    border-radius: 50%;
+    float: left;
+}
+.boss{
+   float: left; 
+   padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgb(240, 5, 63);
+}
+.bog{
+    float: right;
+    padding: 30px;
+}
+.bog a{
+text-decoration: none;
+color: teal;
+font-weight: bold;
+}
+.bog a:hover{
+text-decoration: underline;
+color: chartreuse;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+   border:solid black 3px ; 
+   width: 100%;
+   margin: 30px auto;
+   border-bottom: none;
+}
+.profile{
+
+}
+.content{
+margin-bottom: 30px;
+}
+
+.left-div{
+width: 30%;
+float: left;
+}
+.right-div{
+width: 70%;
+float: left;
+}
+.comon-hr{
+    border: solid black 1px;
+    width: 300% auto;
+    
+}
+.mata-left{
+    width: 45%;
+    float: left;
+}
+.mata-right{
+    width: 45%;
+    float: left;
+}
+.bottom{
+   background-color: black;
+   text-align: center;
+   padding: 10px;
+}
+.bottom a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom p{
+    color: white;
+    margin-top: 20px;
+}
